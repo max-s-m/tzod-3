@@ -1,3 +1,5 @@
 # Практична робота 3
 
-[Датасет](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set/data)
+##Тема: Використовуйте numpy та scipy.stats для створення набору даних про енергетичні витрати з нормальною та експоненційною розподільною функцією. Побудуйте графіки для порівняння розподілів витрат енергії та аналізуйте розподіли на реальних даних.
+
+[Використаний датасет](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set/data)
